@@ -1,4 +1,4 @@
-# UVR
+# Ultraviolet Radiation
 1. 
 - Compute UV radiance in A,B,C range and UV index from spectra
 - Exposure time to get tanned or to reach a sufficient dose of Vitamin-D
